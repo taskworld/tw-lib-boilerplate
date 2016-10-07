@@ -1,4 +1,4 @@
-# tw-lib-boilerplae
+# tw-lib-boilerplate
 
 Boiler plate for creating node.js backend library with babel
 
